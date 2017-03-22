@@ -30,11 +30,14 @@
     "ember-cli-sri": "^2.1.0",
     "ember-cli-uglify": "^1.2.0",
     "ember-data": "^2.12.0",
+    "ember-engines": "^0.5.0",
     "ember-export-application-global": "^1.0.5",
     "ember-load-initializers": "^0.6.0",
     "ember-resolver": "^2.0.3",
     "ember-source": "~2.12.0",
     "ember-welcome-page": "^2.0.2",
+    "test-in-repo-addon-addon-engine":
+    "git://github.com/jnfingerle/test-in-repo-addon-addon-engine.git#f9c461330c5b6b698245e07ba17133e94630685d",
     "loader.js": "^4.2.3"
   },
   "engines": {

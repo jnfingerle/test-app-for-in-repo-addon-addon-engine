@@ -7,6 +7,7 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.mount('tiraa-engine', {path: ''});
 });
 
 export default Router;
